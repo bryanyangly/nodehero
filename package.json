@@ -1,0 +1,23 @@
+{
+    "name": "@alafake/nodehero",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bryanyangly/nodehero.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bryanyangly/nodehero/issues"
+    },
+    "homepage": "https://github.com/bryanyangly/nodehero#readme",
+    "dependencies": {
+        "lodash": "^4.17.4"
+    }
+}
